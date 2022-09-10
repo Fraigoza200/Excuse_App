@@ -1,8 +1,9 @@
-##Excuse App Built in React
+## Excuse App Built in React
 ![Excuse_App](https://user-images.githubusercontent.com/52722189/189460944-24c6b8e5-e037-4537-a3a2-b50bd44ea179.png)
 
 
-
+### Utilize Axios In Order to Fetch Data
+### URL: https://excuser.herokuapp.com/
 
 # Getting Started with Create React App
 
